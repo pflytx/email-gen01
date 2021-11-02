@@ -6,9 +6,9 @@ module.exports = {
   senderAddress: "123 Sesame Street, Alphabet, FL 12345",
 
   // Company, website, or personal name
-  senderName: "11ty Rocks",
+  senderName: "Lytx",
 
-  senderWebsite: "https://11ty.rocks",
+  senderWebsite: "https://lytx.com",
 
   // absolute, full URL
   logoUrl: "https://placehold.it/250x80?text=Logo",
@@ -16,7 +16,7 @@ module.exports = {
   // in pixels, but no unit
   logoHeight: "80",
 
-  logoAlt: "11ty Rocks!",
+  logoAlt: "Lytx",
 
   // These values required for full
   ctaButtonHeight: "40px",
